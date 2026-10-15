@@ -1,0 +1,8 @@
+.cache/
+.local-certs/
+.DS_Store
+*.prof
+*.test
+coverage.out
+# External clones are local study copies; their original licenses/readmes stay intact.
+interviews/upstream/*/

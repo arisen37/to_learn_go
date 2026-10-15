@@ -1,0 +1,54 @@
+[
+  {
+    "name": "dr-fit-hiring-test",
+    "url": "https://github.com/YordanBahov-bg/dr-fit-hiring-test",
+    "owner": "YordanBahov-bg",
+    "language": "Go + React Native/TypeScript",
+    "kind": "Repository repair plus feature extension; author describes it as the Dr.Fit hiring task",
+    "guide": "dr-fit",
+    "researched_on": "2026-10-15",
+    "clone_status": "blocked: shell cannot resolve github.com",
+    "commit": null,
+    "production_lines": null,
+    "tests_run": false
+  },
+  {
+    "name": "noyo-backend",
+    "url": "https://github.com/noyo-technologies/backend-coding-challenge",
+    "owner": "noyo-technologies",
+    "language": "Python",
+    "kind": "Company-owned existing-code extension and test improvement; no deliberately planted bug hunt",
+    "guide": "noyo",
+    "researched_on": "2026-10-15",
+    "clone_status": "blocked: shell cannot resolve github.com",
+    "commit": null,
+    "production_lines": null,
+    "tests_run": false
+  },
+  {
+    "name": "barstool-backend",
+    "url": "https://github.com/BarstoolSports/backend-challenge",
+    "owner": "BarstoolSports",
+    "language": "Node.js",
+    "kind": "Company-owned existing API features, health behavior and authorization tests",
+    "guide": "barstool",
+    "researched_on": "2026-10-15",
+    "clone_status": "blocked: shell cannot resolve github.com",
+    "commit": null,
+    "production_lines": null,
+    "tests_run": false
+  },
+  {
+    "name": "deja-blue",
+    "url": "https://github.com/deja-blue/software-interview",
+    "owner": "deja-blue",
+    "language": "Go + TypeScript/GraphQL",
+    "kind": "Company-owned full-stack extension with pricing, algorithms and concurrency",
+    "guide": "deja-blue",
+    "researched_on": "2026-10-15",
+    "clone_status": "blocked: shell cannot resolve github.com",
+    "commit": null,
+    "production_lines": null,
+    "tests_run": false
+  }
+]
